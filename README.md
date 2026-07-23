@@ -1,16 +1,13 @@
-## Hi there 👋
+#  Emil 
 
-<!--
-**andronnem/andronnem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy turning ideas into practical software and exploring new technologies
+through hands-on projects.
 
-Here are some ideas to get you started:
+Most of my work is built with **JavaScript** and **Go**,
+while I'm always looking for opportunities to learn something new.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What you'll find here
+- 💻 JavaScript & Go projects
+- ⚙️ Automation and utilities
+- 🌱 Learning by building
+- 🚀 Open Source experiments
